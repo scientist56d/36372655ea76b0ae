@@ -1,0 +1,5 @@
+Player URL:
+https://scientist56d.github.io/player/?list=https://raw.githubusercontent.com/scientist56d/36372655ea76b0ae/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/scientist56d/36372655ea76b0ae/refs/heads/master/github_master.m3u8
